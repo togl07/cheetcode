@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <h1>{{$username}}</h1>
+    <h1>salom</h1>
   </body>
 </html>
